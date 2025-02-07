@@ -4,7 +4,7 @@ const Page4 = () => {
   return (
     <>
       <div className="h-[100vh] flex flex-col gap-5 justify-center items-center px-4 bg-pink-200">
-        <h1 class="text-4xl font-bold text-red-600 text-center">
+        <h1 className="text-4xl font-bold text-red-600 text-center">
           THANKS MWA MWA!! HAHA
         </h1>
         <div className="flex gap-3">
