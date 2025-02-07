@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const page1 = () => {
+const Page1 = () => {
   return (
     <>
       <div className="h-[100vh] flex flex-col gap-5 justify-center items-center px-4 bg-pink-200">
-        <h1 class="text-4xl font-bold text-red-600 text-center">
+        <h1 className="text-4xl font-bold text-red-600 text-center">
           Hi! April Anne Lacar, LPT <br /> Will you be my Valentine on Feb 15,
           2025? <br /> sa 15 lang sa kay sweldo haha
         </h1>
@@ -29,4 +29,4 @@ const page1 = () => {
   );
 };
 
-export default page1;
+export default Page1;
